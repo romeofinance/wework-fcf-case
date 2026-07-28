@@ -73,5 +73,5 @@ The bond investors who bought WeWork's 7.875% senior notes in April 2018 were pr
 
 ---
 
-*See companion spreadsheet: `WeWork_FCF_Analysis.xlsx`*
+*See companion spreadsheet: [Download WeWork_FCF_Analysis.xlsx](https://raw.githubusercontent.com/romeofinance/wework-fcf-case/main/WeWork_FCF_Analysis.xlsx).*
 *All financial data sourced from WeWork S-1 filing (SEC, August 14, 2019). Filed as form S-1 by WeWork Companies Inc., CIK 0001533523.*
